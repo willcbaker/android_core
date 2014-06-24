@@ -1,0 +1,8 @@
+prefix=/home/nasa/android/devel
+
+Name: android_extras
+Description: Description of android_extras
+Version: 0.1.4
+Cflags: 
+Libs: -L/home/nasa/android/devel/lib 
+Requires: 
